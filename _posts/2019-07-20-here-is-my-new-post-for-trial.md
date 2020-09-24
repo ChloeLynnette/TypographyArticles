@@ -3,7 +3,7 @@ layout: post
 title: I smell...typographic sexism?!?
 date: 2020-09-24T17:31:56.213Z
 header_feature_image: ../uploads/screenshot-2020-09-21-at-18.33.11.png
-caption: Cobbles
+caption: ""
 comments: true
 ---
 In today’s consumerist society, nobody has the time to ingest and ponder upon every billboard/poster/ad they see. For this reason brands use a variety of semiotics within their marketing depending on the type of audience they are targeting. For instance; bright, primary colours are typically used to target younger demographics. With this strategy, consumers can tell if an ad is aimed at them just by recognising the iconography continuously used to target their specific demographic. One important aspect of this iconography is (of course) typography, and I will be delving a little deeper into how typography is used by brands to target men vs women.
