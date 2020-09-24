@@ -1,48 +1,23 @@
 ---
 layout: post
-title: Here is a blog post sample
-date: 2020-06-24 17:50
-header_feature_image: /uploads/867FAB82-62D7-4C53-8EDC-5114095CF8AA.jpeg
-caption: Cobbles
+title: I smell...typographic sexism?!?
+date: 2020-09-24T17:31:56.213Z
+header_feature_image: ../uploads/screenshot-2020-09-21-at-18.33.11.png
+caption: ""
+comments: true
 ---
+In today’s consumerist society, nobody has the time to ingest and ponder upon every billboard/poster/ad they see. For this reason brands use a variety of semiotics within their marketing depending on the type of audience they are targeting. For instance; bright, primary colours are typically used to target younger demographics. With this strategy, consumers can tell if an ad is aimed at them just by recognising the iconography continuously used to target their specific demographic. One important aspect of this iconography is (of course) typography, and I will be delving a little deeper into how typography is used by brands to target men vs women.
 
-This is just a sample post that you should delete. This first paragraph will appear on the home page as a preview of the post. The rest below this paragraph will appear on the blog post page.
+I will be specifically referencing the brand Dove, who produce both men’s and women's deodorant ranges and use juxtaposing typography to market each gender.
 
-The `header_feature_image` is optional and you should enter the path to it in the metadata above.
+Let’s start with the women’s:
 
-> Here follows some more placeholder text. You can see the `markdown` when viewing this post in Atom. This is a *blockquote*.
+![Women's Dove Deodorant ](../uploads/screenshot-2020-09-22-at-18.39.37.png "Taken from Dove.com")
 
+The images above are from the women’s deodorant product list on the Dove website. As shown, the typeface on the deodorant stick consists of a centrally aligned, regular sans-serif font of which the type is presented solely in the lowercase. The use of lighter fonts, lowercase text and the pastel colours used for the text are intended to attract female audiences as each of these features are traditionally associated with the tranquil nature of women. The shapes acting as an aid to the presentation of the text (e.g the blue ring shape and the gold bar) contain soft edges. Again, this decision was made to reflect the ‘softness’ that is commonly considered a female attribute. These analyses and connotations may seem over-extensive, however once you consider the same factors within the men’s products the picture becomes a lot clearer.
 
-![Here is a book](../uploads/pages.jpg)
+![Men's Dove Deodorant](../uploads/screenshot-2020-09-22-at-18.40.04.png "Taken from Dove.com")
 
-By impossible of in difficulty discovered celebrated ye. Justice joy manners boy met resolve produce. Bed head loud next plan rent had easy add him. To open draw dear be by side like.
+Now, moving on to the distinctly contrasting men’s products. The text here is a bold, wholly capitalised, sans-serif font and has a flush-left alignment. The bold font and capitalised text is a complete reverse of the typography aimed at women and represents an intensity and sense of confidence that aligns with masculine stereotypes. For this same reason, the shapes on the product all have sharp edges; to exude a boldness that will attract male customers. The colours of these shapes also reinforce this as they are extremely deep and vibrant in comparison to the pastel colours targeted at the female audience. All of the type on the packaging is black/white to counterbalance the vibrance of these colours.
 
-It sportsman earnestly ye preserved an on. Moment led family sooner cannot her window pulled any. Or raillery if improved landlord to speaking hastened differed he. Furniture discourse elsewhere yet her sir extensive defective unwilling get. Why resolution one motionless you him thoroughly. Written address greatly get attacks inhabit pursuit our but. Lasted hunted enough an up seeing in lively letter. Had judgment out opinions property the supplied.
-
-Dependent certainty off discovery him his tolerably offending. Ham for attention remainder sometimes additions recommend fat our. Direction has strangers now believing. Respect enjoyed gay far exposed parlors towards. Enjoyment use tolerably dependent listening men. No peculiar in handsome together unlocked do by. Article concern joy anxious did picture sir her.
-
-Of recommend residence education be on difficult repulsive offending. Judge views had mirth table seems great him for her. Alone all happy asked begin fully stand own get. Excuse ye seeing result of we. See scale dried songs old may not. Promotion did disposing you household any instantly. Hills we do under times at first short an.
-
-## Here is a an image
-
-![Wooden Type](../uploads/log.jpg)
-
-She who arrival end how fertile enabled. Brother she add yet see minuter natural smiling article painted. Themselves at dispatched interested insensible am be prosperous reasonably it. In either so spring wished. Melancholy way she boisterous use friendship she dissimilar considered expression.
-
-* Here is a sequence of bulleted text.
-* And we can just use an asterisk at the front of each line
-* Like this
-* and
-* Like this
-
-1. Numbered Lists
-2. Are different
-3. just add a number
-4. And full stop
-5. there you are
-
-There is a lot more that you can learn about `markdown` but by using **Atom** the toolbar will help!
-
-Ten the hastened steepest feelings pleasant few surprise property. Led raising expense yet demesne weather musical. Me mr what park next busy ever. Elinor her his secure far twenty eat object. Late any far saw size want man. Which way you wrong add shall one.
-
- No betrayed pleasure possible jointure we in throwing. And can event rapid any shall woman green. Smiling nothing affixed he carried it clothes calling he no. Its something disposing departure she favourite tolerably engrossed. Excellence put unaffected reasonable mrs introduced conviction she. Nay particular delightful but unpleasant for uncommonly who.
+The one thing that these two products have in common is the font of the brand name; though this was almost definitely done for continuity and branding purposes. All of these gender preconceptions of female timidness and masculine power are not as prominent in today's progressive society as they once were. However, since these gender marketing strategies have been used for so long, we’ve been cultivated to recognise what our products should look like. For two very similar products, the typography for each of them is worlds apart and very much reveals the importance and impact that type can have when marketing to specific audiences!
