@@ -2,7 +2,7 @@
 layout: post
 title: I smell...typographic sexism?!?
 date: 2020-09-24T17:31:56.213Z
-header_feature_image: ../uploads/screenshot-2020-09-30-at-16.58.55.png
+header_feature_image: ../uploads/screenshot-2020-09-30-at-17.01.33.png
 caption: ""
 comments: true
 ---
