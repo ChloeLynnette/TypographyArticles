@@ -13,7 +13,7 @@ When Didot was first designed it was something unique that hadn’t been seen in
 
 High fashion companies often justify hefty price tags by being associated with qualities such as elegance and luxury. The Didot typeface assists this sense of opulence as the slim serifs create more white space on a page; the more white space, the more wealthy and luxurious a brand is thought to be; it suggests they have money to spare by not cramming their pages full of information.
 
-![Vogue November 2020 Issue](../uploads/screenshot-2020-10-09-at-18.13.33.png "Vogue November 2020 Issue - Use of white space")
+![Vogue November 2020 Issue](../uploads/screenshot-2020-10-09-at-18.47.23.png "Vogue November 2020 Issue - Use of white space")
 
 It is for this reason that Didot is often referred to as neoclassical; serifs are known to be vintage however the sleekness of them gives the type a modernistic feel. The use of high contrast allowed the typeface to be instantly distinguishable from others; although this quality has now been adapted into many other fonts used within the fashion world.
 
