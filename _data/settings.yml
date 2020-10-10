@@ -7,7 +7,7 @@ footer_text: Copyright 2020 Chloe Meek
 header_feature_image: ../uploads/screenshot-2020-09-28-at-12.40.41.png
 bannerheight: 20vmax
 logo: ../uploads/screenshot-2020-09-21-at-18.05.34.png
-favicon: /uploads/favicon.ico
+favicon: ../uploads/favicon.ico
 gridlayout: false
 fixednavbar: false
 upzoom: true
