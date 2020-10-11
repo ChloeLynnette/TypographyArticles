@@ -8,7 +8,7 @@ header_feature_image: ../uploads/screenshot-2020-10-11-at-17.52.57.png
 published: true
 tags: null
 description: null
-show: false
+show: true
 ---
 TypoTab is a blog where we analyse anything from the world of typography; whether it be the history of an individual font or how brands use specific typefaces or typography used in everyday life - TypoTab covers it!
 
