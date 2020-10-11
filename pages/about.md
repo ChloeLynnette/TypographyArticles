@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About TypoTab
-subtitle: All about the TypoTab brand
+title: " "
+subtitle: ""
 permalink: /about/
 date: 2020-06-29T15:36:12.231Z
 header_feature_image: ../uploads/screenshot-2020-10-11-at-17.52.57.png
