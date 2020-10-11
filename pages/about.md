@@ -1,20 +1,23 @@
 ---
 layout: page
-title: About
+title: About TypoTab
+subtitle: All about the TypoTab brand
 permalink: /about/
 date: 2020-06-29T15:36:12.231Z
-header_feature_image: /uploads/log.jpg
+header_feature_image: ../uploads/screenshot-2020-10-11-at-17.52.57.png
 published: true
-subtitle: All about me and my life
 tags: null
 description: null
 show: false
 ---
+TypoTab is a blog where we analyse anything from the world of typography; whether it be the history of an individual font or how brands use specific typefaces or typography used in everyday life - TypoTab covers it!
 
-This page is where you write something about yourself. You can add pictures so that people know where you come from or where you live.
+I chose the name TypoTab for the site as the alliteration makes the word roll off the tongue and makes it very memorable. The name also explains exactly what it does on the tin: a tab in your browser that explores the use of typography in a diverse range of contexts.
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
+The logo for the blog consists of the short name of the brand 'tab'; each letter in a different font. The 't' is a lowercase, heavy weight, sans-serif font. The 'a' is a lighter, underlined sans-serif font and the 'B' is a capital serif font. I used 3 contrasting typefaces to reinforce the range of typo-tactics and typo-topics that will be discussed on the blog. Surrounding the name is a magnifying glass to convey the analysis that will be conducted on these topics here on Typotab!
 
-This file is saved inside the _pages_ folder and is saved as _about.md_ . Any file in this folder (as long as it has  the YAML header) will automatically show up as a link in the header bar.
+![TypoTab Logo](../uploads/screenshot-2020-10-11-at-16.35.14.png "TypoTab Logo")
 
-You should use **markdown**to write this text and this will automatically be converted to `HTML`.
+The banner image featured on the website is comprised of a sans-serif, cursive typeface with one woman holding a pencil either side of the text to further play into the handwritten style of the font. The type reads 'Talking All Things Typography!'. This slogan for the blog recycles the use of 't' alliteration within the brand name, again to ensure readers remember the name and purpose of TypoTab. The banner also utilizes the same colour palette as the logo so that readers will associate the vibrant purple and cyan colours with the TypoTab brand.
+
+![TypoTab Banner Image](../uploads/screenshot-2020-10-11-at-15.59.29.png "TypoTab Banner Image")
