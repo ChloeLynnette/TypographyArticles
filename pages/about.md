@@ -4,7 +4,7 @@ title: " About TypoTab"
 subtitle: ""
 permalink: /about/
 date: 2020-06-29T15:36:12.231Z
-header_feature_image: ../uploads/screenshot-2020-10-12-at-10.10.58.png
+header_feature_image: ../uploads/screenshot-2020-10-12-at-10.39.38.png
 published: true
 tags: null
 description: null
