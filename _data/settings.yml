@@ -1,4 +1,4 @@
-title: typotab
+title: TypoTab
 description: Blogs and articles about all things typography! At typotab we delve
   deeper into the hidden meaning behind the typography used in all aspects of
   life!
@@ -8,6 +8,6 @@ header_feature_image: ../uploads/screenshot-2020-10-11-at-15.59.29.png
 bannerheight: 20vmax
 logo: ../uploads/screenshot-2020-10-11-at-16.35.14.png
 favicon: ../uploads/typotab-logo-2.png
-gridlayout: false
+gridlayout: true
 fixednavbar: false
 upzoom: true
