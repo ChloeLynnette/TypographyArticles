@@ -8,6 +8,6 @@ header_feature_image: ../uploads/screenshot-2020-10-11-at-15.59.29.png
 bannerheight: 20vmax
 logo: ../uploads/screenshot-2020-10-11-at-16.35.14.png
 favicon: ../uploads/typotab-logo-2.png
-gridlayout: true
+gridlayout: false
 fixednavbar: false
 upzoom: true
