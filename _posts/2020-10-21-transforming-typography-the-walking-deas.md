@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Transforming Typography: The Walking Deas"
+title: "Transforming Typography: The Walking Dead"
 date: 2020-10-21T16:09:48.011Z
 header_feature_image: ../uploads/img_3698.jpg
 comments: true
