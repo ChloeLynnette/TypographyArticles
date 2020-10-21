@@ -2,7 +2,7 @@
 layout: post
 title: "Transforming Typography: The Walking Dead"
 date: 2020-10-21T16:09:48.011Z
-header_feature_image: ../uploads/screenshot-2020-10-21-at-17.33.44.png
+header_feature_image: ../uploads/screenshot-2020-10-21-at-17.38.18.png
 comments: true
 ---
 Approaching its eleventh season, The Walking Dead has been an internationally adored TV series since its debut in 2010 and consequently its title has become iconic among horror fans. The word ‘The’ within the logo is a light-weight, condensed sans-serif font and is significantly smaller than the rest of the logo due to the trivial nature of the word. The ‘Walking Dead’ is a low-contrast, compact and heavy sans-serif font. All of these features add to the boldness of the text which emphasises the importance of the words as ‘Walking Dead’ reveals exactly what the series is about. This is further reinforced by its colossal size compared to ‘The’.
