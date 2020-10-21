@@ -5,7 +5,7 @@ date: 2020-10-09T17:14:46.368Z
 header_feature_image: ../uploads/screenshot-2020-10-09-at-18.41.56.png
 comments: true
 ---
-The Didot typefaces were first created in 1984 by the Didot family; a family of french printers and publishers. Despite being interjected into the world of typography almost 250 years ago; Didot remains a significant icon in high fashion companies. Didot is implemented by many substantial brands such as Harper’s Bazaar, Elle, Giorgio Armani, Zara, Louis Vuitton - and lest we forget one of the largest names in the world of fashion; Vogue Magazine. Used by colossal companies such as these, it is no surprise that the Didot typeface is often associated with style and elegance - but how did it come to be used by these giants in the first place?
+The Didot typefaces were first created in 1784 by the Didot family; a family of french printers and publishers. Despite being interjected into the world of typography almost 250 years ago; Didot remains a significant icon in high fashion companies. Didot is implemented by many substantial brands such as Harper’s Bazaar, Elle, Giorgio Armani, Zara, Louis Vuitton - and lest we forget one of the largest names in the world of fashion; Vogue Magazine. Used by colossal companies such as these, it is no surprise that the Didot typeface is often associated with style and elegance - but how did it come to be used by these giants in the first place?
 
 When Didot was first designed it was something unique that hadn’t been seen in the typography industry before. This is mainly due to the extreme contrasts between the slender, hairline serifs against the bolder body of the letters. This is mostly recognisable within capital letters that have multiple vertical strokes, such as A,M,N, U and V.
 
