@@ -2,7 +2,7 @@
 layout: post
 title: The Pixel Perfect Title of Minecraft
 date: 2020-10-24T13:45:53.954Z
-header_feature_image: ../uploads/screenshot-2020-10-24-at-14.46.30.png
+header_feature_image: ../uploads/screenshot-2020-10-24-at-14.52.41.png
 comments: true
 ---
 The majority of you are most likely aware of this game but for those who aren’t Minecraft is a world full of ‘blocks’ where players must try and survive by building with nothing but raw materials. Players can craft more complex items such as weapons with these materials in order to fend off monsters who come out at night. Alternatively, players can enter ‘creative mode’ which has no monsters, infinite blocks available and allows players to fly around freely in order to build whatever they desire. The game was released in 2009 and is currently the most sold video game in history, having sold over 200 million units. 
