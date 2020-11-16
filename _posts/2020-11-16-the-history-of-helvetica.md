@@ -2,7 +2,7 @@
 layout: post
 title: The History of Helvetica
 date: 2020-11-16T17:53:57.285Z
-header_feature_image: ../uploads/helvetica.png
+header_feature_image: ../uploads/helvetica1.png
 comments: true
 ---
 First created in 1957 by Max Miedinger, a swiss typeface designer, Helvetica means ‘Swiss’ in Latin and is a sans-serif typeface that was originally named ‘Neue Hass Grotesk’; an homage to the typeface’s neo-grotesque qualities. However the name was changed to Helvetica in 1960 in order to make the typeface more internationally marketable.
